@@ -56,6 +56,7 @@
 		49FDA15B21D8A89400B40924 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				49FDA15C21D8A89400B40924 /* AppDelegate.swift */,
 				49FDA17021D8CC3500B40924 /* Data Model */,
 				49FDA17121D8CC4400B40924 /* Controllers */,
 				49FDA17221D8CC6F00B40924 /* Views */,
@@ -76,7 +77,6 @@
 		49FDA17121D8CC4400B40924 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				49FDA15C21D8A89400B40924 /* AppDelegate.swift */,
 				49FDA15E21D8A89400B40924 /* TodoListViewController.swift */,
 			);
 			path = Controllers;
